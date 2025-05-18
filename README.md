@@ -5,10 +5,7 @@ ReadmeGithubFile
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 # ✏️ About Me:
-
-I’m an active competitive coder and a full-stack developer currently immersed in mastering a range of technologies and frameworks to build dynamic, user-centered applications. With a strong foundation in data structures and algorithms (DSA), I'm not only honing my coding skills but also diving deeper into optimizing and structuring data for scalable solutions.
-
-I love participating in contests and pulling all nighters before a massive showdown at any hackathon.
+Exploring Android development in Kotlin while actively learning data structures and algorithms (DSA). Passionate about building applications, trying development, and juggling hackathons
 ## 🌐 Socials:
 
 [![Instagram]()
