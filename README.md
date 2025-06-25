@@ -7,7 +7,7 @@ Himanshu's metaverse data below
 # ✏️ About Me:
 Exploring Android development in Kotlin while actively learning data structures and algorithms (DSA). Passionate about building applications, trying development, and juggling hackathons
 ## 🌐 Linkedin & Gmail:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hpinmataverse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-patil-38b237235/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:himanshupatil1320@gmail.com)
 
 ## 🏆 CP & DSA:
