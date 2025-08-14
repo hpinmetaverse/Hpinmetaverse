@@ -22,7 +22,7 @@ Exploring Android development in Kotlin while actively learning data structures 
  
 -----
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hpinmetaverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/username=hpinmetaverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=hpinmetaverse&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hpinmetaverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
