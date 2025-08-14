@@ -20,25 +20,20 @@ Exploring Android development in Kotlin while actively learning data structures 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
  
-
+-----
 # 📊 GitHub Stats:
-<div align="center">
-
-![Himanshu Patil's Stats](https://github-readme-stats.vercel.app/api?username=hpinmetaverse&theme=radical&show_icons=true&hide_border=true&count_private=true)
-<br/>
-![Himanshu Patil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hpinmetaverse&theme=radical&show_icons=true&hide_border=true&layout=compact)
-<br/>
-![Himanshu Patil's Top Contribution](https://github-contributor-stats.vercel.app/api?username=hpinmetaverse&limit=3&theme=dracula&combine_all_yearly_contributions=true)
-</div>
+![](https://github-readme-stats.vercel.app/api?username=hpinmetaverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hpinmetaverse&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hpinmetaverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 -----
 
 
 [![Himanshu Patil's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hpinmetaverse&bg_color=000000&color=ffffff&line=e51fff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![](https://visitcount.itsvg.in/api?id=ShauryaRahlon&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hpinmetaverse&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=Hpinmetaverse)
+![](https://komarev.com/ghpvc/?username=hpinmetaverse)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
