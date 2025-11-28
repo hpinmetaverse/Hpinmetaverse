@@ -11,10 +11,7 @@ Exploring Android development in Kotlin while actively learning data structures 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:himanshupatil1320@gmail.com)
 
 ## DSA:
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-%234CC61E.svg?logo=Codeforces&logoColor=white)](https:)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https:)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23A52A2A.svg?logo=CodeChef&logoColor=white)](https:)
 
 # 💻 Tech Stack:
 
