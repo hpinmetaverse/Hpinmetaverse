@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  Computer Science Undergraduate navigating an endless roadmap of things I don't know yet.<br>
-  Relentlessly curious, constantly learning, and always building.<br>
-  Every project, bug, and late-night rabbit hole is another step toward becoming a better engineer than I was yesterday.
-</p>
-
+  Computer Science Undergrad navigating an endless roadmap of things I don't know yet.
 <h3 align="center">📡 Transmission from the Metaverse</h3>
 
 <p align="center">
@@ -20,11 +16,13 @@
 
 ## 🧭 Current Coordinates
 
-- Participated in multiple hackathons, securing 2 wins and several finalist finishes while designing, building, and shipping solutions under tight deadlines.
-
 - Building backend systems using Node.js, Express.js, MongoDB, REST APIs, authentication workflows, and modular software architecture.
+  
+- Participated in multiple hackathons, securing 2 wins and several finalist finishes while designing, building, and shipping solutions under tight deadlines.
+  
+- Conducting research in Deep Learning and Computer Vision, working on U-Net based retinal image segmentation, optimizer benchmarking, and performance evaluation for medical imaging applications at IIITDMJ.
 
-- Conducting research in Deep Learning and Computer Vision, working on U-Net based retinal image segmentation, optimizer benchmarking, and performance evaluation for medical imaging applications.
+- Had a brief stint at a SaaS company after my sophomore year, gaining exposure to collaborative development workflows and real-world software delivery processes.
 
 - Exploring the intersection of AI and software engineering by integrating machine learning workflows into practical, user-facing applications.
 
@@ -46,13 +44,13 @@ Known Bugs     : Thinking one more refactor will fix everything
 | Category | Technologies |
 |-----------|-------------|
 | Languages | C++, Python, JavaScript, TypeScript |
-| Frontend | HTML, CSS, React, Tailwind CSS |
-| Backend | Node.js, Express.js, REST APIs |
-| Databases | MongoDB, MySQL |
+| Frontend | HTML, CSS, React, Tailwind CSS,Next |
+| Backend | Node.js, Express.js, REST APIs ,Flask,FastAPI|
+| Databases | MongoDB, MySQL ,GraphQL|
 | Machine Learning | TensorFlow, Scikit-Learn, OpenCV |
 | Data & Analysis | NumPy, Pandas, Matplotlib |
-| Developer Tools | Git, GitHub, Linux, Postman, VS Code |
-| Exploring | DevOps, System Design, Deep Learning, Computer Vision |
+| Developer Tools | Git, GitHub, Postman |
+| Exploring | Deep Learning,DevOPS|
 
 ---
 
@@ -75,5 +73,5 @@ Known Bugs     : Thinking one more refactor will fix everything
 ---
 
 <p align="center">
-  <i>⚡ Still learning. Still building. Still not done.</i>
+  <i>⚡ Tech evolves every day. So do I.</i>
 </p>
