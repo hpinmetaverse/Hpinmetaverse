@@ -1,37 +1,79 @@
-## Hi there 👋
-# Welcome to metaverse
-Himanshu's metaverse data below
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
-# ✏️ About Me:
-Exploring Backend and system flows , Android development in Kotlin, while actively learning data structures and algorithms (DSA). Passionate about building best software solutions and applications while juggling hackathons
-## 🌐 Linkedin & Gmail:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-patil-38b237235/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:himanshupatil1320@gmail.com)
-
-## DSA:
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https:)
-
-# 💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
- 
------
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hpinmetaverse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
------
-
-
-[![Himanshu Patil's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hpinmetaverse&bg_color=000000&color=ffffff&line=e51fff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![](https://visitcount.itsvg.in/api?id=hpinmetaverse&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![](https://komarev.com/ghpvc/?username=hpinmetaverse)
+<h1 align="center">🌌 Welcome to the Metaverse</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <b><i>HPinMETAVERSE.exe is still compiling...</i></b>
+</p>
+
+<p align="center">
+  Computer Science Undergraduate navigating an endless roadmap of things I don't know yet.<br>
+  Relentlessly curious, constantly learning, and always building.<br>
+  Every project, bug, and late-night rabbit hole is another step toward becoming a better engineer than I was yesterday.
+</p>
+
+<h3 align="center">📡 Transmission from the Metaverse</h3>
+
+<p align="center">
+  <img width="640" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="coding gif" />
+</p>
+
+---
+
+## 🧭 Current Coordinates
+
+- Participated in multiple hackathons, securing 2 wins and several finalist finishes while designing, building, and shipping solutions under tight deadlines.
+
+- Building backend systems using Node.js, Express.js, MongoDB, REST APIs, authentication workflows, and modular software architecture.
+
+- Conducting research in Deep Learning and Computer Vision, working on U-Net based retinal image segmentation, optimizer benchmarking, and performance evaluation for medical imaging applications.
+
+- Exploring the intersection of AI and software engineering by integrating machine learning workflows into practical, user-facing applications.
+
+- Currently expanding my understanding of System Design, DevOps, scalable architectures, and modern software engineering practices.
+
+---
+
+## 📜 Quest Log
+
+```text
+Status         : Learning
+Mode           : Deep Work
+Current Quest  : Becoming a better engineer than yesterday
+Known Bugs     : Thinking one more refactor will fix everything
+```
+
+## 🛠️ Tools of the Trade
+
+| Category | Technologies |
+|-----------|-------------|
+| Languages | C++, Python, JavaScript, TypeScript |
+| Frontend | HTML, CSS, React, Tailwind CSS |
+| Backend | Node.js, Express.js, REST APIs |
+| Databases | MongoDB, MySQL |
+| Machine Learning | TensorFlow, Scikit-Learn, OpenCV |
+| Data & Analysis | NumPy, Pandas, Matplotlib |
+| Developer Tools | Git, GitHub, Linux, Postman, VS Code |
+| Exploring | DevOps, System Design, Deep Learning, Computer Vision |
+
+---
+
+## 📡 Open a Communication Channel
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hpinmetaverse/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:himanshupatil1320@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Always open to interesting conversations, collaborations, and ambitious ideas.</i>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ Still learning. Still building. Still not done.</i>
 </p>
