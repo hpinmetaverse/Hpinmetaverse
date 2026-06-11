@@ -75,3 +75,11 @@ Known Bugs     : Thinking one more refactor will fix everything
 <p align="center">
   <i>⚡ Tech evolves every day. So do I.</i>
 </p>
+
+<br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=hpinmetaverse&label=Visitors&color=6A5ACD&style=for-the-badge)
+
+</div>
